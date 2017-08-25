@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1009384986561",
+    "firebase_url": "https://justwrite-85d2a.firebaseio.com",
+    "project_id": "justwrite-85d2a",
+    "storage_bucket": "justwrite-85d2a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009384986561:android:cb745db04d9cc659",
+        "android_client_info": {
+          "package_name": "com.genieapps.writeshort"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1009384986561-q4lc2hf0lhsgc8ve2jonrffdf1mu10h4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.genieapps.writeshort",
+            "certificate_hash": "1a5e8abf609d49bee46db092d05cba9dd0d47f3a"
+          }
+        },
+        {
+          "client_id": "1009384986561-u3vobbhosj3u1mo5ict1u20501df07j9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMioRmmDIw1yT2-5DJ2qjXfUqI2b9KHZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1009384986561-u3vobbhosj3u1mo5ict1u20501df07j9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
